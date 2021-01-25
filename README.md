@@ -1,2 +1,2 @@
 # Solidity-Practice
-Practice various solidity concepts and excercises.
+Various solidity concepts and practice excercises.
